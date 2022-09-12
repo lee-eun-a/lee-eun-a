@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is EUNA 👋
 
 <!--
 **lee-eun-a/lee-eun-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
